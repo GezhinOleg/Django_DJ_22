@@ -1,6 +1,6 @@
 # Рецепты
 ## Bзменены файлы:
-   recipes/urls.py[https://github.com/GezhinOleg/Django_DJ_22/blob/main/DZ_2/recipes/urls.py]
+   [recipes/urls.py](https://github.com/GezhinOleg/Django_DJ_22/blob/main/DZ_2/recipes/urls.py)
 
 ## Задание
 
